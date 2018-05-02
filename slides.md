@@ -95,6 +95,25 @@ $ git log
 class: center, middle, inverse
 
 # Share your repo on GitHub
+---
+
+Create a new repo on GitHub
+
+In your laptop, add a remote named `origin`
+```
+$ git remote add origin git@github.com:iglpdc/brainhack-intro-git.git
+```
+
+Push to GitHub
+```
+$ git push -u origin master
+```
+
+---
+
+# Exercise
+
+Push your guacamole repo to Github
 
 ---
 class: center, middle, inverse
